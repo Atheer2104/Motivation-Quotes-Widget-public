@@ -9,7 +9,7 @@ The project's main purpose was to do something that had at least some value to t
 # What can you do?
 Well, you install the app and then you can add a widget to your home screen this widget will provide a quote to help you go through your day. The quotes you get are randomized at default you get a new quote every hour. But the app support extra functionality where you can specify how long it takes for a new quote to appear and also you can customize the color of the widget so it becomes more in line with the vibe in your home screen
 
-## technologies currently used 
+## technologies used used 
 SwiftUI, WidgetKit, Google Admob.
 
 # Examples
